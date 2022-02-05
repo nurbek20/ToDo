@@ -1,0 +1,29 @@
+body{
+    background-color:aqua;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.l{
+    display: flex;
+    justify-content: center;
+}
+.li{
+    display: flex;
+    justify-content: center;
+    margin-left: -108px;
+}
+.lin{
+    display:flex;
+    justify-content: center;
+    margin-left: -116px;
+}
+.linkk{
+    display: flex;
+    justify-content: center;
+    margin-left:27px;
+}
+button{
+    background-color: darkcyan;
+}
